@@ -1,4 +1,4 @@
-﻿# aio-project-3
+# 단위 프로젝트 3차 — 에러 자가 치유(Auto Healing) 워크플로우
 
 > 공개 범위: **비공개(Private)**
 
